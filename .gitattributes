@@ -1,0 +1,5 @@
+*.java linguist-language=Java
+*.jar linguist-detectable=false
+*.class linguist-detectable=false
+*.md linguist-detectable=false
+*.txt linguist-detectable=false
